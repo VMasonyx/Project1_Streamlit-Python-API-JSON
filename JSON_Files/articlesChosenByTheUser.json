@@ -1,0 +1,2437 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+  "section": "Arts",
+  "last_updated": "2022-10-23T23:58:16-04:00",
+  "num_results": 39,
+  "results": [
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "The One Where Matthew Perry Writes an Addiction Memoir",
+      "abstract": "In \u201cFriends, Lovers and the Big Terrible Thing,\u201d the actor gets serious about sobriety, mortality, colostomy bags and pickleball.",
+      "url": "https://www.nytimes.com/2022/10/23/arts/television/matthew-perry-friends-lovers-and-the-big-terrible-thing.html",
+      "uri": "nyt://article/8d3a2397-d2b4-5a23-a957-309cbcf9098c",
+      "byline": "By Elisabeth Egan",
+      "item_type": "Article",
+      "updated_date": "2022-10-23T11:18:16-04:00",
+      "created_date": "2022-10-23T05:00:15-04:00",
+      "published_date": "2022-10-23T05:00:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Writing and Writers",
+        "Friends, Lovers, and the Big Terrible Thing (Book)",
+        "Alcohol Abuse",
+        "Actors and Actresses",
+        "Drug Abuse and Traffic",
+        "Celebrities",
+        "Friends (TV Program)",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Perry, Matthew"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/07/books/00MATTHEWPERRY1/merlin_214327569_a47b9ab0-f2a3-4cf7-b214-423899726a79-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "By the time he was 49, Matthew Perry writes in his new book, he had spent more than half of his life in treatment centers or sober living facilities.",
+          "copyright": "Michelle Groskopf for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/07/books/00MATTHEWPERRY1/00MATTHEWPERRY1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "By the time he was 49, Matthew Perry writes in his new book, he had spent more than half of his life in treatment centers or sober living facilities.",
+          "copyright": "Michelle Groskopf for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/07/books/00MATTHEWPERRY1/00MATTHEWPERRY1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "By the time he was 49, Matthew Perry writes in his new book, he had spent more than half of his life in treatment centers or sober living facilities.",
+          "copyright": "Michelle Groskopf for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3TtEmUs"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Martyna Majok on Hoping for Magic, and Wishing for Ghosts",
+      "abstract": "The playwright, whose Pulitzer-winning \u201cCost of Living\u201d is now on Broadway, talks about \u201cthe precarity of life\u201d and our inherent need to be taken care of.",
+      "url": "https://www.nytimes.com/2022/10/23/theater/martyna-majok-cost-of-living.html",
+      "uri": "nyt://article/6187c832-1def-53d7-8e81-a16085de1077",
+      "byline": "By Laura Collins-Hughes",
+      "item_type": "Article",
+      "updated_date": "2022-10-23T22:35:23-04:00",
+      "created_date": "2022-10-23T14:11:32-04:00",
+      "published_date": "2022-10-23T14:11:32-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Writing and Writers",
+        "Theater (Broadway)",
+        "Cost of Living (Play)"
+      ],
+      "org_facet": [
+        "Friedman, Samuel J, Theater"
+      ],
+      "per_facet": [
+        "Bonney, Jo",
+        "Majok, Martyna",
+        "Sullivan, Katy (Actor)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/21MAJOK6/merlin_214831836_93f1d7fd-5d32-4a4f-a257-82050e4a871f-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1463,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The playwright Martyna Majok at the Samuel J. Friedman Theater, where her play \u201cCost of Living\u201d is having its Broadway debut. As tinged with longing as her play is, it\u2019s also laugh-out-loud funny.",
+          "copyright": "Dina Litovsky for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/21MAJOK6/21MAJOK6-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The playwright Martyna Majok at the Samuel J. Friedman Theater, where her play \u201cCost of Living\u201d is having its Broadway debut. As tinged with longing as her play is, it\u2019s also laugh-out-loud funny.",
+          "copyright": "Dina Litovsky for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/21MAJOK6/21MAJOK6-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The playwright Martyna Majok at the Samuel J. Friedman Theater, where her play \u201cCost of Living\u201d is having its Broadway debut. As tinged with longing as her play is, it\u2019s also laugh-out-loud funny.",
+          "copyright": "Dina Litovsky for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3DjIEqL"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "\u2018House of the Dragon\u2019 Season 1 Finale Recap: The Angriest Dragon",
+      "abstract": "A stirring, often moving season finale included many of the show\u2019s signature elements as it set up the war to come.",
+      "url": "https://www.nytimes.com/2022/10/23/arts/television/house-of-the-dragon-recap-season-finale.html",
+      "uri": "nyt://article/06b20771-4946-5a4f-bee5-21957cb931f2",
+      "byline": "By Jeremy Egner",
+      "item_type": "Article",
+      "updated_date": "2022-10-23T23:55:05-04:00",
+      "created_date": "2022-10-23T23:55:05-04:00",
+      "published_date": "2022-10-23T23:55:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "House of the Dragon (TV Program)",
+        "Game of Thrones (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/arts/23dragon-1/23dragon-1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1280,
+          "width": 1920,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "It\u2019s not easy being queen. Emma D\u2019Arcy in the season finale of \u201cHouse of the Dragon.\u201d",
+          "copyright": "Ollie Upton / HBO"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/arts/23dragon-1/23dragon-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "It\u2019s not easy being queen. Emma D\u2019Arcy in the season finale of \u201cHouse of the Dragon.\u201d",
+          "copyright": "Ollie Upton / HBO"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/arts/23dragon-1/23dragon-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "It\u2019s not easy being queen. Emma D\u2019Arcy in the season finale of \u201cHouse of the Dragon.\u201d",
+          "copyright": "Ollie Upton / HBO"
+        }
+      ],
+      "short_url": "https://nyti.ms/3VOrE4h"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Review: Retracing the Path From Middle School Nerd to Rock Goddess",
+      "abstract": "Best known for her 1995 hit song \u201cI Kissed a Girl,\u201d the enchanting singer-songwriter Jill Sobule is the star of a winsome and defiant autobiographical musical.",
+      "url": "https://www.nytimes.com/2022/10/23/theater/review-retracing-the-path-from-middle-school-nerd-to-rock-goddess.html",
+      "uri": "nyt://article/30bedd0c-00cf-509e-b4f0-5b9d43e4821b",
+      "byline": "By Laura Collins-Hughes",
+      "item_type": "Article",
+      "updated_date": "2022-10-23T22:41:33-04:00",
+      "created_date": "2022-10-23T14:57:17-04:00",
+      "published_date": "2022-10-23T14:57:17-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Pick",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Theater",
+        "Homosexuality and Bisexuality",
+        "F*ck7thGrade (Play)"
+      ],
+      "org_facet": [
+        "Wild Project Theater"
+      ],
+      "per_facet": [
+        "Birkenmeier, Liza",
+        "Sobule, Jill",
+        "Peterson, Lisa"
+      ],
+      "geo_facet": [
+        "East Village (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/23fck-7th-grade1/merlin_215180910_c554352e-9706-49f9-b25f-ad507d4beef0-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Kristen Ellis-Henderson, Jill Sobule and Nini Camps in Sobule\u2019s new autobiographical musical.",
+          "copyright": "Eric McNatt"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/23fck-7th-grade1/merlin_215180910_c554352e-9706-49f9-b25f-ad507d4beef0-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Kristen Ellis-Henderson, Jill Sobule and Nini Camps in Sobule\u2019s new autobiographical musical.",
+          "copyright": "Eric McNatt"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/23fck-7th-grade1/23fck-7th-grade1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Kristen Ellis-Henderson, Jill Sobule and Nini Camps in Sobule\u2019s new autobiographical musical.",
+          "copyright": "Eric McNatt"
+        }
+      ],
+      "short_url": "https://nyti.ms/3VOX6iV"
+    },
+    {
+      "section": "arts",
+      "subsection": "dance",
+      "title": "A Choreographer Who Merges Art, Activism and the Natural World",
+      "abstract": "Emily Johnson\u2019s \u201cBeing Future Being\u201d unfolds in two parts, one at East River Park, the other at New York Live Arts.",
+      "url": "https://www.nytimes.com/2022/10/23/arts/dance/emily-johnson-being-future-being.html",
+      "uri": "nyt://article/6f5969fa-3d9c-57c7-bee5-5895dac55696",
+      "byline": "By Siobhan Burke",
+      "item_type": "Article",
+      "updated_date": "2022-10-23T22:38:25-04:00",
+      "created_date": "2022-10-23T15:45:07-04:00",
+      "published_date": "2022-10-23T15:45:07-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Dancing",
+        "Being Future Being (Dance (Non-Ballet))"
+      ],
+      "org_facet": [
+        "New York Live Arts"
+      ],
+      "per_facet": [
+        "Johnson, Emily (1976- )",
+        "Chacon, Raven"
+      ],
+      "geo_facet": [
+        "East River (NYC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/23johnson-notebook-1/merlin_215219472_a744e833-f590-42b1-a22d-7b590652b2e0-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emily Johnson at the second part of \u201cBeing Future Being.\u201d What if, she asked through her megaphone, \u201cevery one of us turned every one of our cells toward justice?\u201d",
+          "copyright": "Caitlin Ochs for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/23johnson-notebook-1/merlin_215219472_a744e833-f590-42b1-a22d-7b590652b2e0-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emily Johnson at the second part of \u201cBeing Future Being.\u201d What if, she asked through her megaphone, \u201cevery one of us turned every one of our cells toward justice?\u201d",
+          "copyright": "Caitlin Ochs for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/23johnson-notebook-1/23johnson-notebook-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emily Johnson at the second part of \u201cBeing Future Being.\u201d What if, she asked through her megaphone, \u201cevery one of us turned every one of our cells toward justice?\u201d",
+          "copyright": "Caitlin Ochs for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3eW51Kr"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Review: A Conductor Takes a Victory Lap With Her Orchestra",
+      "abstract": "Mirga Gra\u017einyt\u0117-Tyla has returned to the City of Birmingham Symphony Orchestra, now as a guest, for a tour that stopped at Carnegie Hall.",
+      "url": "https://www.nytimes.com/2022/10/23/arts/music/mirga-birmingham-carnegie-hall-review.html",
+      "uri": "nyt://article/dcaa4edb-3285-5c7a-a41d-54bea08923d9",
+      "byline": "By Joshua Barone",
+      "item_type": "Article",
+      "updated_date": "2022-10-23T22:40:46-04:00",
+      "created_date": "2022-10-23T14:38:35-04:00",
+      "published_date": "2022-10-23T14:38:35-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Pick",
+      "des_facet": [
+        "Classical Music"
+      ],
+      "org_facet": [
+        "City of Birmingham Symphony Orchestra",
+        "Carnegie Hall"
+      ],
+      "per_facet": [
+        "Grazinyte-Tyla, Mirga (1986- )",
+        "Ades, Thomas",
+        "Kanneh-Mason, Sheku"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/arts/23birmingham-review-1/merlin_215347821_e190111d-d5ca-4dfd-8593-9dca89dfcdf7-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mirga Gra\u017einyt\u0117-Tyla led the City of Birmingham Symphony Orchestra at Carnegie Hall on Saturday.",
+          "copyright": "Chris Lee"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/arts/23birmingham-review-1/merlin_215347821_e190111d-d5ca-4dfd-8593-9dca89dfcdf7-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mirga Gra\u017einyt\u0117-Tyla led the City of Birmingham Symphony Orchestra at Carnegie Hall on Saturday.",
+          "copyright": "Chris Lee"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/arts/23birmingham-review-1/23birmingham-review-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mirga Gra\u017einyt\u0117-Tyla led the City of Birmingham Symphony Orchestra at Carnegie Hall on Saturday.",
+          "copyright": "Chris Lee"
+        }
+      ],
+      "short_url": "https://nyti.ms/3VR1spA"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Taylor Swift, Caught Between Yesterday and Tomorrow on \u2018Midnights\u2019",
+      "abstract": "The singer-songwriter\u2019s 10th studio album returns to the pop sound she left in 2019, and explores a familiar subject: how she is perceived, and how she perceives herself.",
+      "url": "https://www.nytimes.com/2022/10/21/arts/music/taylor-swift-midnights-review.html",
+      "uri": "nyt://article/bb23bab8-8a3f-5aa2-9db5-e248f1e40268",
+      "byline": "By Jon Caramanica",
+      "item_type": "Article",
+      "updated_date": "2022-10-22T16:06:06-04:00",
+      "created_date": "2022-10-21T13:57:19-04:00",
+      "published_date": "2022-10-21T13:57:19-04:00",
+      "material_type_facet": "",
+      "kicker": "Album Review",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Midnights (Album)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Swift, Taylor"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/21taylor-review1/21taylor-review-02-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1671,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taylor Swift\u2019s \u201cMidnights\u201d recalls the sound of \u201cLover,\u201d the album she put out in 2019 before two surprise releases \u2014 \u201cFolklore\u201d and \u201cEvermore\u201d \u2014 in 2020.",
+          "copyright": "Beth Garrabrant"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/21taylor-review1/21taylor-review-02-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taylor Swift\u2019s \u201cMidnights\u201d recalls the sound of \u201cLover,\u201d the album she put out in 2019 before two surprise releases \u2014 \u201cFolklore\u201d and \u201cEvermore\u201d \u2014 in 2020.",
+          "copyright": "Beth Garrabrant"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/21taylor-review1/21taylor-review1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taylor Swift\u2019s \u201cMidnights\u201d recalls the sound of \u201cLover,\u201d the album she put out in 2019 before two surprise releases \u2014 \u201cFolklore\u201d and \u201cEvermore\u201d \u2014 in 2020.",
+          "copyright": "Beth Garrabrant"
+        }
+      ],
+      "short_url": "https://nyti.ms/3VLluBV"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "The Clock Strikes: Time for Taylor Swift\u2019s New LP, \u2018Midnights\u2019",
+      "abstract": "The singer-songwriter\u2019s 10th studio album is a return to the pop pipeline, with production from her longtime collaborator Jack Antonoff.",
+      "url": "https://www.nytimes.com/2022/10/21/arts/music/taylor-swift-midnights.html",
+      "uri": "nyt://article/55480ad2-16e8-5aa2-bcfa-382e728cf8e7",
+      "byline": "By Ben Sisario",
+      "item_type": "Article",
+      "updated_date": "2022-10-21T14:00:41-04:00",
+      "created_date": "2022-10-21T00:01:39-04:00",
+      "published_date": "2022-10-21T00:01:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Midnights (Album)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Swift, Taylor",
+        "Antonoff, Jack"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/20/arts/21TAYLOR-ARRIVAL1/merlin_213540102_4fddb7fb-513c-4706-aba2-924fb7bada7b-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taylor Swift announced the 13-track \u201cMidnights\u201d two months ago, calling it \u201cthe story of 13 sleepless nights scattered throughout my life.\u201d",
+          "copyright": "Terry Wyatt/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/20/arts/21TAYLOR-ARRIVAL1/21TAYLOR-ARRIVAL1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taylor Swift announced the 13-track \u201cMidnights\u201d two months ago, calling it \u201cthe story of 13 sleepless nights scattered throughout my life.\u201d",
+          "copyright": "Terry Wyatt/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/20/arts/21TAYLOR-ARRIVAL1/21TAYLOR-ARRIVAL1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taylor Swift announced the 13-track \u201cMidnights\u201d two months ago, calling it \u201cthe story of 13 sleepless nights scattered throughout my life.\u201d",
+          "copyright": "Terry Wyatt/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Slu9rV"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018Everything Everywhere,\u2019 All Through Awards Season?",
+      "abstract": "At a screening filled with Oscar voters, Michelle Yeoh, Ke Huy Quan and the directors marveled at the way their quirky film has struck a chord.",
+      "url": "https://www.nytimes.com/2022/10/21/movies/everything-everywhere-all-at-once-oscars.html",
+      "uri": "nyt://article/99072f42-8da3-5f0e-9db0-d984a2d9aa1f",
+      "byline": "By Kyle Buchanan",
+      "item_type": "Article",
+      "updated_date": "2022-10-22T14:36:55-04:00",
+      "created_date": "2022-10-21T12:30:09-04:00",
+      "published_date": "2022-10-21T12:30:09-04:00",
+      "material_type_facet": "",
+      "kicker": "The Projectionist",
+      "des_facet": [
+        "Movies",
+        "Everything Everywhere All at Once (Movie)",
+        "Actors and Actresses"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Yeoh, Michelle",
+        "Quan, Ke Huy",
+        "Kwan, Daniel (Film Director)",
+        "Scheinert, Daniel (Film Director)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/21everything-everywhere9b/merlin_215201937_a612116e-3e98-4c08-ac50-03be01996ee2-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1378,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The cast and crew at the Los Angeles screening on Tuesday night, including Michelle Yeoh, in yellow, the directors Daniel Scheinert and Daniel Kwan behind and in front of her, and Ke Huy Quan, second from right in the middle row.",
+          "copyright": "Sinna Nasseri for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/21everything-everywhere9b/merlin_215201937_a612116e-3e98-4c08-ac50-03be01996ee2-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The cast and crew at the Los Angeles screening on Tuesday night, including Michelle Yeoh, in yellow, the directors Daniel Scheinert and Daniel Kwan behind and in front of her, and Ke Huy Quan, second from right in the middle row.",
+          "copyright": "Sinna Nasseri for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/21everything-everywhere9b/merlin_215201937_a612116e-3e98-4c08-ac50-03be01996ee2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The cast and crew at the Los Angeles screening on Tuesday night, including Michelle Yeoh, in yellow, the directors Daniel Scheinert and Daniel Kwan behind and in front of her, and Ke Huy Quan, second from right in the middle row.",
+          "copyright": "Sinna Nasseri for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3z0qtoA"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "An Iranian Exile Channels Her Trauma Into Film",
+      "abstract": "Zar Amir Ebrahimi, who had to flee Iran after an intimate tape was leaked, has been transfixed by the protests erupting there as her film \u201cHoly Spider\u201d is released in the U.S.",
+      "url": "https://www.nytimes.com/2022/10/22/movies/zar-amir-ebrahimi-holy-spider.html",
+      "uri": "nyt://article/76ee9f94-effc-584f-b5d4-6ff03fa019e1",
+      "byline": "By Roger Cohen",
+      "item_type": "Article",
+      "updated_date": "2022-10-23T10:08:10-04:00",
+      "created_date": "2022-10-22T05:43:27-04:00",
+      "published_date": "2022-10-22T05:43:27-04:00",
+      "material_type_facet": "",
+      "kicker": "Reporter\u2019s Notebook",
+      "des_facet": [
+        "Movies",
+        "Holy Spider (Movie)",
+        "Actors and Actresses",
+        "Content Type: Personal Profile",
+        "Women's Rights",
+        "Demonstrations, Protests and Riots",
+        "Muslim Veiling"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Ebrahimi, Zar Amir",
+        "Abbasi, Ali (Film Director)"
+      ],
+      "geo_facet": [
+        "Iran"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21zar5/merlin_214057566_f03f1afc-7b4b-42bd-a107-2b1dfce94f54-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1638,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Elliott Verdier for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21zar5/21zar5-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Elliott Verdier for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21zar5/21zar5-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Elliott Verdier for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3SoJh7M"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "EJ Hill Wants to Take You on a Ride",
+      "abstract": "Some things about life \u2014 and America \u2014 \u201cyou have to feel in your gut,\u201d this artist says. So he\u2019s building a roller coaster inside a museum.",
+      "url": "https://www.nytimes.com/2022/10/21/arts/design/ej-hill-roller-coaster-mass-moca-art.html",
+      "uri": "nyt://article/4e7d6dcc-810b-5c85-95df-87ba3ab65322",
+      "byline": "By Siddhartha Mitter",
+      "item_type": "Article",
+      "updated_date": "2022-10-23T14:57:47-04:00",
+      "created_date": "2022-10-21T05:00:36-04:00",
+      "published_date": "2022-10-21T05:00:36-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Roller Coasters",
+        "Amusement and Theme Parks",
+        "Museums",
+        "Sculpture",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "Massachusetts Museum of Contemporary Art"
+      ],
+      "per_facet": [
+        "Hill, EJ (Artist)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/arts/23ej-hill9/merlin_214854762_abddcaa8-c395-4041-9899-1f02efdaa699-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The artist EJ Hill and his working roller coaster named \u201cBrava!\u201d mid-assembly at Mass MoCA in North Adams, Mass.",
+          "copyright": "Cindy Schultz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/arts/23ej-hill9/merlin_214854762_abddcaa8-c395-4041-9899-1f02efdaa699-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The artist EJ Hill and his working roller coaster named \u201cBrava!\u201d mid-assembly at Mass MoCA in North Adams, Mass.",
+          "copyright": "Cindy Schultz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/arts/23ej-hill9/merlin_214854762_abddcaa8-c395-4041-9899-1f02efdaa699-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The artist EJ Hill and his working roller coaster named \u201cBrava!\u201d mid-assembly at Mass MoCA in North Adams, Mass.",
+          "copyright": "Cindy Schultz for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3eQyKEw"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "How George Clooney and Julia Roberts Quietly Became the Tracy-Hepburn of Our Time",
+      "abstract": "\u201cTicket to Paradise\u201d and other team-ups take advantage of their onscreen glamour and stellar chemistry and their offscreen affection for one another.",
+      "url": "https://www.nytimes.com/2022/10/21/movies/george-clooney-julia-roberts.html",
+      "uri": "nyt://article/90fd41dd-3970-54a5-951b-6bdd46cc1177",
+      "byline": "By Jason Bailey",
+      "item_type": "Article",
+      "updated_date": "2022-10-23T22:35:17-04:00",
+      "created_date": "2022-10-21T13:14:21-04:00",
+      "published_date": "2022-10-21T13:14:21-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Movies",
+        "Actors and Actresses",
+        "Ticket to Paradise (Movie)",
+        "Confessions of a Dangerous Mind (Movie)",
+        "Money Monster (Movie)",
+        "Ocean's Eleven (Movie)",
+        "Ocean's Twelve (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Roberts, Julia",
+        "Clooney, George"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21clooney-roberts-notebook-ticket2/21clooney-roberts-notebook-ticket2-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1154,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "They each bring movie-star qualities in addition to their onscreen chemistry.",
+          "copyright": "Universal Pictures, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21clooney-roberts-notebook-ticket2/21clooney-roberts-notebook-ticket2-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 401,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "They each bring movie-star qualities in addition to their onscreen chemistry.",
+          "copyright": "Universal Pictures, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21clooney-roberts-notebook-ticket2/21clooney-roberts-notebook-ticket2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "They each bring movie-star qualities in addition to their onscreen chemistry.",
+          "copyright": "Universal Pictures, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3VNWael"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018Glengarry Glen Ross\u2019 and \u2018Reservoir Dogs\u2019 at 30: Men Talking",
+      "abstract": "These dramas, both known for distinctive (and salty) dialogue, didn\u2019t make much of a box office impression in 1992. But their influence is still being felt.",
+      "url": "https://www.nytimes.com/2022/10/21/movies/glengarry-glen-ross-reservoir-dogs-anniversary.html",
+      "uri": "nyt://article/4a1826dd-7ff2-5c54-b6cc-1a73e3e9eb5a",
+      "byline": "By Jason Bailey",
+      "item_type": "Article",
+      "updated_date": "2022-10-22T12:02:54-04:00",
+      "created_date": "2022-10-21T09:00:09-04:00",
+      "published_date": "2022-10-21T09:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Glengarry Glen Ross (Movie)",
+        "Reservoir Dogs (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Mamet, David",
+        "Tarantino, Quentin"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21glengarry-dogs-anniversary1/21glengarry-dogs-anniversary1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1018,
+          "width": 1485,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Quentin Tarantino, Michael Madsen, Edward Bunker and Steve Buscemi in \u201cReservoir Dogs.\u201d",
+          "copyright": "Miramax Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21glengarry-dogs-anniversary1/21glengarry-dogs-anniversary1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Quentin Tarantino, Michael Madsen, Edward Bunker and Steve Buscemi in \u201cReservoir Dogs.\u201d",
+          "copyright": "Miramax Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21glengarry-dogs-anniversary1/21glengarry-dogs-anniversary1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Quentin Tarantino, Michael Madsen, Edward Bunker and Steve Buscemi in \u201cReservoir Dogs.\u201d",
+          "copyright": "Miramax Films"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ePWitf"
+    },
+    {
+      "section": "arts",
+      "subsection": "dance",
+      "title": "The Brilliance and the Blahs of City Ballet. (And Then There\u2019s Solange.)",
+      "abstract": "Reflections on the fall season of New York City Ballet, which remains in transition with a new generation raring to go.",
+      "url": "https://www.nytimes.com/2022/10/21/arts/dance/new-york-city-ballet-fall-season.html",
+      "uri": "nyt://article/8bf27edb-1b51-59ad-b93b-7e6089eecbe4",
+      "byline": "By Gia Kourlas",
+      "item_type": "Article",
+      "updated_date": "2022-10-21T17:04:08-04:00",
+      "created_date": "2022-10-21T09:00:08-04:00",
+      "published_date": "2022-10-21T09:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Dancing"
+      ],
+      "org_facet": [
+        "New York City Ballet"
+      ],
+      "per_facet": [
+        "Furlan, Jovani",
+        "Kikta, Emily",
+        "Mearns, Sara",
+        "Fairchild, Megan",
+        "Woodward, Indiana"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/00nycb-notebook1/merlin_215181138_18c5616a-3305-4242-b140-4abc50afb354-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Honest simplicity in movement. Sara Mearns in Justin Peck\u2019s \u201cSolo.\u201d",
+          "copyright": "Erin Baiano"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/00nycb-notebook1/merlin_215181138_18c5616a-3305-4242-b140-4abc50afb354-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Honest simplicity in movement. Sara Mearns in Justin Peck\u2019s \u201cSolo.\u201d",
+          "copyright": "Erin Baiano"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/00nycb-notebook1/00nycb-notebook1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Honest simplicity in movement. Sara Mearns in Justin Peck\u2019s \u201cSolo.\u201d",
+          "copyright": "Erin Baiano"
+        }
+      ],
+      "short_url": "https://nyti.ms/3TGcegx"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "What\u2019s on TV This Week: \u2018The White Lotus\u2019 and Lots of Spooky Movies",
+      "abstract": "The HBO series begins its second season. And we rounded up some scary movies to get you prepped for Halloween.",
+      "url": "https://www.nytimes.com/2022/10/24/arts/television/whats-on-tv-this-week-white-lotus.html",
+      "uri": "nyt://article/aeba03a0-e158-5f92-a2a5-3c06f5218fea",
+      "byline": "By Shivani Gonzalez",
+      "item_type": "Article",
+      "updated_date": "2022-10-24T01:00:05-04:00",
+      "created_date": "2022-10-24T01:00:05-04:00",
+      "published_date": "2022-10-24T01:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Movies"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/24tvcol-whitelotus/24tvcol-whitelotus-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1280,
+          "width": 1920,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Aubrey Plaza, Will Sharpe, Theo James and Meghann Fahy in \u201cThe White Lotus.\u201d",
+          "copyright": "Fabio Lovino/HBO"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/24tvcol-whitelotus/24tvcol-whitelotus-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Aubrey Plaza, Will Sharpe, Theo James and Meghann Fahy in \u201cThe White Lotus.\u201d",
+          "copyright": "Fabio Lovino/HBO"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/24tvcol-whitelotus/24tvcol-whitelotus-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Aubrey Plaza, Will Sharpe, Theo James and Meghann Fahy in \u201cThe White Lotus.\u201d",
+          "copyright": "Fabio Lovino/HBO"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CTEdCs"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Ryan Condal Was Surprised People Liked \u2018House of the Dragon\u2019 So Quickly",
+      "abstract": "Condal, a showrunner, discussed the challenges of pulling off Season 1 of the first \u201cGame of Thrones\u201d spinoff. \u201cThe reward for everybody is that the story from here forward happens in real time,\u201d he said.",
+      "url": "https://www.nytimes.com/2022/10/23/arts/television/house-of-the-dragon-showrunner-ryan-condal.html",
+      "uri": "nyt://article/cdd4ab6b-4785-5b31-9dbc-47262438f541",
+      "byline": "By Sean T. Collins",
+      "item_type": "Article",
+      "updated_date": "2022-10-23T23:55:06-04:00",
+      "created_date": "2022-10-23T23:55:06-04:00",
+      "published_date": "2022-10-23T23:55:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "House of the Dragon (TV Program)"
+      ],
+      "org_facet": [
+        "Home Box Office"
+      ],
+      "per_facet": [
+        "Condal, Ryan"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/24DRAGON-INTERVIEW2/merlin_215249118_d435c0dc-e493-4719-adf9-d38d9a5d931a-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ryan Condal on the set of \u201cHouse of the Dragon.\u201d The first season of the \u201cGame of Thrones\u201d prequel ended on Sunday.",
+          "copyright": "Ollie Upton/HBO"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/24DRAGON-INTERVIEW2/merlin_215249118_d435c0dc-e493-4719-adf9-d38d9a5d931a-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ryan Condal on the set of \u201cHouse of the Dragon.\u201d The first season of the \u201cGame of Thrones\u201d prequel ended on Sunday.",
+          "copyright": "Ollie Upton/HBO"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/24DRAGON-INTERVIEW2/24DRAGON-INTERVIEW2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ryan Condal on the set of \u201cHouse of the Dragon.\u201d The first season of the \u201cGame of Thrones\u201d prequel ended on Sunday.",
+          "copyright": "Ollie Upton/HBO"
+        }
+      ],
+      "short_url": "https://nyti.ms/3gtbzk5"
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "Climate Activists Throw Mashed Potatoes on Monet Painting",
+      "abstract": "The stunt in a German museum was the latest attack on widely admired art, carried out by protesters demanding action on climate change.",
+      "url": "https://www.nytimes.com/2022/10/23/arts/claude-monet-mashed-potatoes-climate-activists.html",
+      "uri": "nyt://article/958f66c1-7a7b-5843-a67b-df596189e82b",
+      "byline": "By Eduardo Medina",
+      "item_type": "Article",
+      "updated_date": "2022-10-23T22:50:01-04:00",
+      "created_date": "2022-10-23T22:50:01-04:00",
+      "published_date": "2022-10-23T22:50:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Demonstrations, Protests and Riots",
+        "Museums",
+        "Global Warming"
+      ],
+      "org_facet": [
+        "Museum Barberini"
+      ],
+      "per_facet": [
+        "Monet, Claude",
+        "van Gogh, Vincent"
+      ],
+      "geo_facet": [
+        "Germany",
+        "Europe",
+        "London (England)",
+        "Potsdam (Germany)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23xp-monet-1-b505/23xp-monet-1-b505-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After throwing mashed potatoes at a painting by Claude Monet, on exhibit in Potsdam, Germany, the climate protesters each glued a hand to the wall on Sunday. ",
+          "copyright": "Letzte Generation, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23xp-monet-1-b505/23xp-monet-1-b505-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After throwing mashed potatoes at a painting by Claude Monet, on exhibit in Potsdam, Germany, the climate protesters each glued a hand to the wall on Sunday. ",
+          "copyright": "Letzte Generation, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23xp-monet-1-b505/23xp-monet-1-b505-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After throwing mashed potatoes at a painting by Claude Monet, on exhibit in Potsdam, Germany, the climate protesters each glued a hand to the wall on Sunday. ",
+          "copyright": "Letzte Generation, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3eY8GHH"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Geoff Nuttall, First Among Equals in Acclaimed Quartet, Dies at 56",
+      "abstract": "With the St. Lawrence Quartet, he played the violin with such enthusiasm that he often swept himself from his seat. At the Spoleto Festival USA, he was a shaping force.",
+      "url": "https://www.nytimes.com/2022/10/22/arts/music/geoff-nuttall-dead.html",
+      "uri": "nyt://article/6e5d52b5-d5da-5867-8c81-4407cf2c6df8",
+      "byline": "By David Allen",
+      "item_type": "Article",
+      "updated_date": "2022-10-23T16:40:50-04:00",
+      "created_date": "2022-10-22T20:16:52-04:00",
+      "published_date": "2022-10-22T20:16:52-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Spoleto Festival USA",
+        "Classical Music"
+      ],
+      "org_facet": [
+        "St Lawrence String Quartet"
+      ],
+      "per_facet": [
+        "Nuttall, Geoff"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/obituaries/21Nuttall1/21Nuttall1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Nuttall performing this year. He was 10 or 11 when he first played in a quartet. ",
+          "copyright": "Bill Struhs"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/obituaries/21Nuttall1/21Nuttall1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Nuttall performing this year. He was 10 or 11 when he first played in a quartet. ",
+          "copyright": "Bill Struhs"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/obituaries/21Nuttall1/21Nuttall1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Nuttall performing this year. He was 10 or 11 when he first played in a quartet. ",
+          "copyright": "Bill Struhs"
+        }
+      ],
+      "short_url": "https://nyti.ms/3gznRrq"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Monkeys, Mysteries and Murder",
+      "abstract": "Our critic recommends old and new books",
+      "url": "https://www.nytimes.com/2022/10/22/books/molly-young-book-recommendations.html",
+      "uri": "nyt://article/bdedfb3f-7be5-5953-9200-5aeb53f86f6c",
+      "byline": "By Molly Young",
+      "item_type": "Article",
+      "updated_date": "2022-10-22T22:20:42-04:00",
+      "created_date": "2022-10-22T07:50:03-04:00",
+      "published_date": "2022-10-22T07:50:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "internal-sub-only-nl"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1901,
+          "width": 1576,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cLezende jongen,\u201d by Frans Hals",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cLezende jongen,\u201d by Frans Hals",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cLezende jongen,\u201d by Frans Hals",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3z5cX2R"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "More Money Can Mean More Museums, Just Look at Florida",
+      "abstract": "Especially on the coasts of the state, the wealthy are increasingly choosing to start their own museums rather than house their collections in someone else\u2019s.",
+      "url": "https://www.nytimes.com/2022/10/22/arts/design/museums-private-collectors.html",
+      "uri": "nyt://article/f88debe0-fc9a-581c-a860-5552a48ac65a",
+      "byline": "By Geraldine Fabrikant",
+      "item_type": "Article",
+      "updated_date": "2022-10-22T05:00:38-04:00",
+      "created_date": "2022-10-22T05:00:38-04:00",
+      "published_date": "2022-10-22T05:00:38-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Museums",
+        "Art",
+        "Philanthropy",
+        "High Net Worth Individuals",
+        "Collectors and Collections",
+        "Culture (Arts)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Florida"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-rudy-4/merlin_214888239_62e2a95d-e3f9-4845-b795-7265515c8cf9-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1354,
+          "width": 1935,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudy Ciccarello, left, and Alberto Alfonso, an architect, right, review plans in 2018 for the Museum of the American Arts & Crafts Movement.",
+          "copyright": "Two Red Roses Foundation"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-rudy-4/23sp-museums-rudy-4-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudy Ciccarello, left, and Alberto Alfonso, an architect, right, review plans in 2018 for the Museum of the American Arts & Crafts Movement.",
+          "copyright": "Two Red Roses Foundation"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-rudy-4/23sp-museums-rudy-4-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudy Ciccarello, left, and Alberto Alfonso, an architect, right, review plans in 2018 for the Museum of the American Arts & Crafts Movement.",
+          "copyright": "Two Red Roses Foundation"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Spmb0A"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Words and Actions: Queens Museum Shows About Seeking Racial Justice",
+      "abstract": "Two exhibitions at the Queens Museum address efforts to create a more equitable society.",
+      "url": "https://www.nytimes.com/2022/10/22/arts/design/queens-museum-racial-justice.html",
+      "uri": "nyt://article/3a6e498f-13c5-5060-841f-d66e28db5636",
+      "byline": "By Alina Tugend",
+      "item_type": "Article",
+      "updated_date": "2022-10-22T05:00:37-04:00",
+      "created_date": "2022-10-22T05:00:37-04:00",
+      "published_date": "2022-10-22T05:00:37-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Museums",
+        "World's Fair of 1964-65 (NYC)",
+        "Race and Ethnicity"
+      ],
+      "org_facet": [
+        "Congress of Racial Equality",
+        "Queens Museum"
+      ],
+      "per_facet": [
+        "Simmons, Xaviera (1974- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-queens-simmons-1/merlin_214317480_848608fe-7c23-4674-92b4-6972e43b1cc0-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1637,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cAlign\u201d (2022) by Xaviera Simmons is the 16-foot-high and 15-foot-deep centerpiece of her exhibition at the Queens Museum.",
+          "copyright": "Jasmine Clarke for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-queens-simmons-1/23sp-museums-queens-simmons-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cAlign\u201d (2022) by Xaviera Simmons is the 16-foot-high and 15-foot-deep centerpiece of her exhibition at the Queens Museum.",
+          "copyright": "Jasmine Clarke for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-queens-simmons-1/23sp-museums-queens-simmons-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cAlign\u201d (2022) by Xaviera Simmons is the 16-foot-high and 15-foot-deep centerpiece of her exhibition at the Queens Museum.",
+          "copyright": "Jasmine Clarke for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3SkPSQx"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "A New Look at a Groundbreaking Ceramics Artist",
+      "abstract": "A gallery show in Manhattan will display works from the 1990s by Betty Woodman, one of the first ceramists \u201cto be treated seriously.\u201d",
+      "url": "https://www.nytimes.com/2022/10/22/arts/design/betty-woodman-ceramics-artist.html",
+      "uri": "nyt://article/f45e5aaf-210f-544c-8d57-0f35d5b61a0d",
+      "byline": "By Jane L. Levere",
+      "item_type": "Article",
+      "updated_date": "2022-10-22T05:00:36-04:00",
+      "created_date": "2022-10-22T05:00:36-04:00",
+      "published_date": "2022-10-22T05:00:36-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Museums",
+        "Art",
+        "Ceramics and Pottery",
+        "Sculpture",
+        "Culture (Arts)"
+      ],
+      "org_facet": [
+        "Kordansky, David, Gallery"
+      ],
+      "per_facet": [
+        "Woodman, Betty"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-betty-1/merlin_214276404_f51a961c-2173-4214-8990-c8effd815609-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 2042,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Betty Woodman in her New York City studio in 1996.",
+          "copyright": "Mary Ellen Mark/The Mary Ellen Mark Foundation"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-betty-1/merlin_214276404_f51a961c-2173-4214-8990-c8effd815609-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Betty Woodman in her New York City studio in 1996.",
+          "copyright": "Mary Ellen Mark/The Mary Ellen Mark Foundation"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-betty-1/merlin_214276404_f51a961c-2173-4214-8990-c8effd815609-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Betty Woodman in her New York City studio in 1996.",
+          "copyright": "Mary Ellen Mark/The Mary Ellen Mark Foundation"
+        }
+      ],
+      "short_url": "https://nyti.ms/3TNFDpb"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Meret Oppenheim, a Rebel of Surrealist Art, Wanted the Last Word",
+      "abstract": "She planned her own retrospective before her death. A third of her suggestions got in, including the furry tea set that made her name.",
+      "url": "https://www.nytimes.com/2022/10/22/arts/design/meret-oppenheim-art-show.html",
+      "uri": "nyt://article/1c409e07-a416-59a3-9b08-bf0c11c6e262",
+      "byline": "By Ted Loos",
+      "item_type": "Article",
+      "updated_date": "2022-10-23T10:51:53-04:00",
+      "created_date": "2022-10-22T05:00:35-04:00",
+      "published_date": "2022-10-22T05:00:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Sculpture",
+        "Museums",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "Kunstmuseum Bern",
+        "Museum of Modern Art"
+      ],
+      "per_facet": [
+        "Oppenheim, Meret"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-tea-meret/merlin_214688010_82b7ed98-9cd7-4c74-a2fe-d907c44db3e3-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1484,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The artist Meret Oppenheim, seen here with her 1975 work \u201cSix Clouds on a Bridge\u201d in 1982. She was known for her playful unpredictability and unwillingness to be defined by others.",
+          "copyright": "Margrit Baumann, via Kunstmuseum Bern"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-tea-meret/23sp-museums-tea-meret-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The artist Meret Oppenheim, seen here with her 1975 work \u201cSix Clouds on a Bridge\u201d in 1982. She was known for her playful unpredictability and unwillingness to be defined by others.",
+          "copyright": "Margrit Baumann, via Kunstmuseum Bern"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-tea-meret/23sp-museums-tea-meret-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The artist Meret Oppenheim, seen here with her 1975 work \u201cSix Clouds on a Bridge\u201d in 1982. She was known for her playful unpredictability and unwillingness to be defined by others.",
+          "copyright": "Margrit Baumann, via Kunstmuseum Bern"
+        }
+      ],
+      "short_url": "https://nyti.ms/3gr1CDU"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "At Museums and Auctions, Private Treasures Are Unveiled",
+      "abstract": "Our guide to exhibitions around the country, including public viewings of art from private collections.",
+      "url": "https://www.nytimes.com/2022/10/22/arts/design/museum-gallery-auctions-exhibitions.html",
+      "uri": "nyt://article/10633c3c-6fed-5580-a807-688e257ca8f8",
+      "byline": "By Lauren Messman",
+      "item_type": "Article",
+      "updated_date": "2022-10-22T05:00:33-04:00",
+      "created_date": "2022-10-22T05:00:33-04:00",
+      "published_date": "2022-10-22T05:00:33-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coraline (Movie)"
+      ],
+      "org_facet": [
+        "Christie's",
+        "Warhol, Andy, Museum",
+        "Whitney Museum of American Art",
+        "Ortuzar Projects (Manhattan, NY)",
+        "Sotheby's",
+        "Museum of Arts and Design",
+        "Museum of the Moving Image",
+        "Getty Center",
+        "Hammer Museum",
+        "Orange County Museum of Art",
+        "Institute of Contemporary Art San Francisco",
+        "Portland Art Museum",
+        "National Gallery of Art",
+        "Baltimore Museum of Art",
+        "Gray, Richard, Gallery (Manhattan, NY)",
+        "Toledo Museum of Art",
+        "Walker Art Center",
+        "Denver Art Museum",
+        "Museum of Fine Arts (Boston)",
+        "Massachusetts Museum of Contemporary Art",
+        "High Museum of Art",
+        "Perez, Jorge M, Art Museum of Miami-Dade County",
+        "Ringling, John and Mable, Museum of Art",
+        "North Carolina Museum of Art",
+        "Ogden Museum of Southern Art",
+        "Dallas Museum of Art",
+        "Museum of Fine Arts (Houston)"
+      ],
+      "per_facet": [
+        "Hopper, Edward",
+        "Waters, John (1946- )",
+        "Warhol, Andy",
+        "de Kooning, Willem",
+        "Didion, Joan",
+        "Sargent, John Singer"
+      ],
+      "geo_facet": [
+        "New York City",
+        "Los Angeles (Calif)",
+        "Dallas (Tex)",
+        "Houston (Tex)",
+        "Boston (Mass)",
+        "San Francisco (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-listings-dekooning/merlin_214749714_4a3fdf0e-c7dc-42f5-9052-d7267b88f55d-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At Sotheby\u2019s, \u201cde Kooning: Decades\u201d will present works from three periods in Willem de Kooning\u2019s life. From left, \u201cMontauk II,\u201d 1969; \u201cUntitled,\u201d circa 1979; and \u201cThe Hat Upstairs,\u201d 1987.",
+          "copyright": "Sotheby's"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-listings-dekooning/23sp-museums-listings-dekooning-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At Sotheby\u2019s, \u201cde Kooning: Decades\u201d will present works from three periods in Willem de Kooning\u2019s life. From left, \u201cMontauk II,\u201d 1969; \u201cUntitled,\u201d circa 1979; and \u201cThe Hat Upstairs,\u201d 1987.",
+          "copyright": "Sotheby's"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-listings-dekooning/23sp-museums-listings-dekooning-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At Sotheby\u2019s, \u201cde Kooning: Decades\u201d will present works from three periods in Willem de Kooning\u2019s life. From left, \u201cMontauk II,\u201d 1969; \u201cUntitled,\u201d circa 1979; and \u201cThe Hat Upstairs,\u201d 1987.",
+          "copyright": "Sotheby's"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Sp85MM"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Out of Obscurity, Lynne Drexler\u2019s Abstract Paintings Fetch Millions",
+      "abstract": "After a derailed career, Ms. Drexler became a \u201chermit\u201d painter on an island. Decades later, piqued public interest can earn her work seven figures.",
+      "url": "https://www.nytimes.com/2022/10/22/arts/design/lynne-drexler-auction-paintings.html",
+      "uri": "nyt://article/ec10dbc0-ed9c-5d60-93aa-4ab8d64c77f2",
+      "byline": "By Ted Loos",
+      "item_type": "Article",
+      "updated_date": "2022-10-23T10:36:50-04:00",
+      "created_date": "2022-10-22T05:00:32-04:00",
+      "published_date": "2022-10-22T05:00:32-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Content Type: Personal Profile",
+        "Auctions",
+        "Museums"
+      ],
+      "org_facet": [
+        "Christie's",
+        "Mnuchin Gallery",
+        "Berry Campbell Gallery (Manhattan, NY)"
+      ],
+      "per_facet": [
+        "Drexler, Lynne Mapp"
+      ],
+      "geo_facet": [
+        "Monhegan Island (Me)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-drexler-1/23sp-museums-drexler-1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1503,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The artist Lynne Drexler, shown here in a portrait from 1960, is attracting attention after years in relative obscurity.",
+          "copyright": "Buckley Sander"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-drexler-1/23sp-museums-drexler-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The artist Lynne Drexler, shown here in a portrait from 1960, is attracting attention after years in relative obscurity.",
+          "copyright": "Buckley Sander"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-drexler-1/23sp-museums-drexler-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The artist Lynne Drexler, shown here in a portrait from 1960, is attracting attention after years in relative obscurity.",
+          "copyright": "Buckley Sander"
+        }
+      ],
+      "short_url": "https://nyti.ms/3TlkuCO"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "A Minnesota Exhibit Framed Around Longing for Home",
+      "abstract": "In a show that ranges from Northern California to Laos, the Hmong American artist Pao Houa Her explores landscape, making a living and a peculiar kind of paradise.",
+      "url": "https://www.nytimes.com/2022/10/22/arts/design/walker-art-center-pao-houa-her.html",
+      "uri": "nyt://article/bf73d9bc-9329-5893-8564-c9aa6c45951b",
+      "byline": "By Alex V. Cipolle",
+      "item_type": "Article",
+      "updated_date": "2022-10-22T13:38:54-04:00",
+      "created_date": "2022-10-22T05:00:25-04:00",
+      "published_date": "2022-10-22T05:00:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Photography",
+        "Hmong Tribe",
+        "Marijuana",
+        "Art"
+      ],
+      "org_facet": [
+        "Walker Art Center"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Minnesota"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-walker-1/merlin_214347357_136cb292-a7d5-436d-a74a-b5cb2d9e3e87-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cPao Houa Her: Paj qaum ntuj/Flowers of the Sky,\u201d runs at the Walker Art Center through Jan. 22.",
+          "copyright": "Eric Mueller"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-walker-1/23sp-museums-walker-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cPao Houa Her: Paj qaum ntuj/Flowers of the Sky,\u201d runs at the Walker Art Center through Jan. 22.",
+          "copyright": "Eric Mueller"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-walker-1/23sp-museums-walker-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cPao Houa Her: Paj qaum ntuj/Flowers of the Sky,\u201d runs at the Walker Art Center through Jan. 22.",
+          "copyright": "Eric Mueller"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CVL0fd"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Oscar yi Hou\u2019s Paintings Lend New Frames to Queer, Asian Identity",
+      "abstract": "The 24-year-old \u201cinternet kid\u201d from Liverpool melds contemporary iconography with figurative works of art.",
+      "url": "https://www.nytimes.com/2022/10/22/arts/design/oscar-yi-hou-paintings.html",
+      "uri": "nyt://article/39b9dcff-5ce8-5a20-93d0-97218a828d2b",
+      "byline": "By Ted Loos",
+      "item_type": "Article",
+      "updated_date": "2022-10-22T23:01:48-04:00",
+      "created_date": "2022-10-22T05:00:12-04:00",
+      "published_date": "2022-10-22T05:00:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Paint"
+      ],
+      "org_facet": [
+        "Brooklyn Museum",
+        "New-York Historical Society",
+        "James Fuentes Gallery (Manhattan, NY)",
+        "Columbia University"
+      ],
+      "per_facet": [
+        "yi Hou, Oscar"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-oscar-1/merlin_213533373_9b13e340-4b09-4800-bbdc-a99139b1327e-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1639,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The artist Oscar yi Hou in his studio, with a painting from his Brooklyn show, \u201cCoolieisms, aka: Gold Mountain Cruiser (Mineshaft Trade)\u201d (2022).",
+          "copyright": "Vincent Tullo for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-oscar-1/23sp-museums-oscar-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The artist Oscar yi Hou in his studio, with a painting from his Brooklyn show, \u201cCoolieisms, aka: Gold Mountain Cruiser (Mineshaft Trade)\u201d (2022).",
+          "copyright": "Vincent Tullo for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/23/multimedia/23sp-museums-oscar-1/23sp-museums-oscar-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The artist Oscar yi Hou in his studio, with a painting from his Brooklyn show, \u201cCoolieisms, aka: Gold Mountain Cruiser (Mineshaft Trade)\u201d (2022).",
+          "copyright": "Vincent Tullo for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CV2RTs"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "\u2018A Little Life\u2019 Review: A Collage of Unrelenting Torment",
+      "abstract": "Hanya Yanagihara\u2019s best-selling novel comes to the BAM stage, and raises the question: How much suffering can the protagonist (and the audience) endure?",
+      "url": "https://www.nytimes.com/2022/10/21/theater/a-little-life-review.html",
+      "uri": "nyt://article/26ead0a4-f1ec-5e16-a87c-57fc7f71be50",
+      "byline": "By Naveen Kumar",
+      "item_type": "Article",
+      "updated_date": "2022-10-23T22:38:23-04:00",
+      "created_date": "2022-10-21T20:35:30-04:00",
+      "published_date": "2022-10-21T20:35:30-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Theater",
+        "Theater (Off Broadway)",
+        "A Little Life (Play)"
+      ],
+      "org_facet": [
+        "Brooklyn Academy of Music"
+      ],
+      "per_facet": [
+        "International Theater Amsterdam (Theater Co)",
+        "Tachelet, Koen",
+        "van Hove, Ivo",
+        "Yanagihara, Hanya"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/21LITTLE-LIFE/merlin_215250456_dd3fc3b8-14ec-41dc-a58c-f1e437b28f76-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maarten Heijmans, left, as Willem and Ramsey Nasr as Jude in Ivo van Hove\u2019s production of \u201cA Little Life\u201d at the Brooklyn Academy of Music.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/21LITTLE-LIFE/merlin_215250456_dd3fc3b8-14ec-41dc-a58c-f1e437b28f76-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maarten Heijmans, left, as Willem and Ramsey Nasr as Jude in Ivo van Hove\u2019s production of \u201cA Little Life\u201d at the Brooklyn Academy of Music.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/arts/21LITTLE-LIFE/21LITTLE-LIFE-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maarten Heijmans, left, as Willem and Ramsey Nasr as Jude in Ivo van Hove\u2019s production of \u201cA Little Life\u201d at the Brooklyn Academy of Music.",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3TquJpB"
+    },
+    {
+      "section": "arts",
+      "subsection": "dance",
+      "title": "Julie Kent, Renowned Former Ballerina, Will Lead Houston Ballet",
+      "abstract": "Kent, the artistic director of Washington Ballet, will leave at the end of the 2022-23 season.",
+      "url": "https://www.nytimes.com/2022/10/21/arts/dance/julie-kent-houston-ballet.html",
+      "uri": "nyt://article/a3e26e98-9986-5bb9-ab72-f48c550f15e8",
+      "byline": "By Javier C. Hern\u00e1ndez",
+      "item_type": "Article",
+      "updated_date": "2022-10-21T17:22:23-04:00",
+      "created_date": "2022-10-21T17:22:23-04:00",
+      "published_date": "2022-10-21T17:22:23-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Dancing",
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": [
+        "Houston Ballet",
+        "Washington Ballet"
+      ],
+      "per_facet": [
+        "Kent, Julie"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/multimedia/21kent-item-1-b6a2/21kent-item-1-b6a2-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Julie Kent, here in 2015, said she is ready for a new challenge.",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/multimedia/21kent-item-1-b6a2/21kent-item-1-b6a2-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Julie Kent, here in 2015, said she is ready for a new challenge.",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/multimedia/21kent-item-1-b6a2/21kent-item-1-b6a2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Julie Kent, here in 2015, said she is ready for a new challenge.",
+          "copyright": "Tony Cenicola/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3gy6k2U"
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "An Ode to the Public Library",
+      "abstract": "In search of a quiet space, an artist encounters the vibrancy of the New York Public Library.",
+      "url": "https://www.nytimes.com/2022/10/21/arts/new-york-public-library-illustration.html",
+      "uri": "nyt://article/e154b866-751e-5233-8245-5bc08fa48d81",
+      "byline": "By Haruka Aoki",
+      "item_type": "Article",
+      "updated_date": "2022-10-22T15:54:39-04:00",
+      "created_date": "2022-10-21T16:56:45-04:00",
+      "published_date": "2022-10-21T16:56:45-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Libraries and Librarians"
+      ],
+      "org_facet": [
+        "New York Public Library"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/00sanctuaries-illo-promo/00sanctuaries-illo-promo-superJumbo.png",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Haruka Aoki"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/00sanctuaries-illo-promo/00sanctuaries-illo-promo-threeByTwoSmallAt2X.png",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Haruka Aoki"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/00sanctuaries-illo-promo/00sanctuaries-illo-promo-thumbLarge.png",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Haruka Aoki"
+        }
+      ],
+      "short_url": "https://nyti.ms/3gv7KLe"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Lucy Simon, Singer and Broadway Composer, Is Dead at 82",
+      "abstract": "She and her sister Carly Simon were a folk duo in the 1960s. Years later, she wrote the Tony-nominated music for \u201cThe Secret Garden.\u201d",
+      "url": "https://www.nytimes.com/2022/10/21/arts/music/lucy-simon-dead.html",
+      "uri": "nyt://article/eeb5214e-40cd-5fb4-bf21-1691b2ff6975",
+      "byline": "By Neil Genzlinger",
+      "item_type": "Article",
+      "updated_date": "2022-10-23T00:51:59-04:00",
+      "created_date": "2022-10-21T16:46:51-04:00",
+      "published_date": "2022-10-21T16:46:51-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Theater",
+        "Theater (Broadway)",
+        "Pop and Rock Music",
+        "Folk Music",
+        "Grammy Awards",
+        "The Secret Garden (Play)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Simon, Lucy",
+        "Simon, Carly",
+        "Simon, Joanna"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/obituaries/21lsimon1/merlin_215230851_68575812-7d81-4aa3-8e14-cebbc21ad0f9-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1391,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lucy Simon in 1982. Her younger sister, Carly, became a best-selling pop star after their folk-duo days, and her older sister, Joanna, was an opera singer. Joanna died a day before Lucy\u2019s death.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/obituaries/21lsimon1/21lsimon1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lucy Simon in 1982. Her younger sister, Carly, became a best-selling pop star after their folk-duo days, and her older sister, Joanna, was an opera singer. Joanna died a day before Lucy\u2019s death.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/obituaries/21lsimon1/21lsimon1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lucy Simon in 1982. Her younger sister, Carly, became a best-selling pop star after their folk-duo days, and her older sister, Joanna, was an opera singer. Joanna died a day before Lucy\u2019s death.",
+          "copyright": "Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CUyPiB"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Joanna Simon, Opera Singer from Famously Musical Family, Dies at 85",
+      "abstract": "A renowned mezzo-soprano, she grew up alongside her younger sisters, Carly and Lucy, both of whom became singer-songwriters.",
+      "url": "https://www.nytimes.com/2022/10/21/arts/music/joanna-simon-dead.html",
+      "uri": "nyt://article/1a71e189-fdb2-591d-af52-63a6c5df6706",
+      "byline": "By Clay Risen",
+      "item_type": "Article",
+      "updated_date": "2022-10-22T15:59:30-04:00",
+      "created_date": "2022-10-21T16:46:08-04:00",
+      "published_date": "2022-10-21T16:46:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Opera"
+      ],
+      "org_facet": [
+        "New York City Opera"
+      ],
+      "per_facet": [
+        "Simon, Joanna",
+        "Simon, Carly",
+        "Simon, Lucy"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/obituaries/21Simon-Julia1/21Simon-Julia1-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 1462,
+          "width": 957,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joanna Simon performing at Weill Recital Hall at Carnegie Hall in 1999. She was one of the best-known American opera singers to emerge in the 1960s.",
+          "copyright": "Steve J. Sherman"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/obituaries/21Simon-Julia1/21Simon-Julia1-threeByTwoSmallAt2X-v3.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joanna Simon performing at Weill Recital Hall at Carnegie Hall in 1999. She was one of the best-known American opera singers to emerge in the 1960s.",
+          "copyright": "Steve J. Sherman"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/obituaries/21Simon-Julia1/21Simon-Julia1-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joanna Simon performing at Weill Recital Hall at Carnegie Hall in 1999. She was one of the best-known American opera singers to emerge in the 1960s.",
+          "copyright": "Steve J. Sherman"
+        }
+      ],
+      "short_url": "https://nyti.ms/3TZOLHt"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "In a Musical About Penicillin\u2019s Inventor, Superbugs Take Center Stage",
+      "abstract": "\u201cThe Mold That Changed the World\u201d traces the life of the inventor of penicillin and offers a message: Don\u2019t take antibiotics unless you really need them.",
+      "url": "https://www.nytimes.com/2022/10/21/theater/mold-that-changed-the-world-penicillin.html",
+      "uri": "nyt://article/c58ab7c8-4485-59ad-bb84-ae5a1708d4b3",
+      "byline": "By Sheryl Gay Stolberg",
+      "item_type": "Article",
+      "updated_date": "2022-10-21T17:03:06-04:00",
+      "created_date": "2022-10-21T14:58:58-04:00",
+      "published_date": "2022-10-21T14:58:58-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "The Mold That Changed the World (Play)"
+      ],
+      "org_facet": [
+        "Charades Theater Co"
+      ],
+      "per_facet": [
+        "Hiley, Robin",
+        "Fleming, Alexander"
+      ],
+      "geo_facet": [
+        "Washington (DC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/21mold-play1/merlin_215233593_209d2f29-4920-4287-a54a-4017eb77c88c-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1441,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Rose stars as Alexander Fleming, the physician who invented penicillin, in the musical \u201cThe Mold That Changed the World.\u201d",
+          "copyright": "Michael A. McCoy for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/21mold-play1/21mold-play1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Rose stars as Alexander Fleming, the physician who invented penicillin, in the musical \u201cThe Mold That Changed the World.\u201d",
+          "copyright": "Michael A. McCoy for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/21mold-play1/21mold-play1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Rose stars as Alexander Fleming, the physician who invented penicillin, in the musical \u201cThe Mold That Changed the World.\u201d",
+          "copyright": "Michael A. McCoy for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3D11hQ6"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018The African Desperate\u2019 Expands the Movies\u2019 Narrow View of the Art World",
+      "abstract": "Most films set adjacent to studios and galleries lampoon unfathomable pretension, but Martine Syms takes a more nuanced approached in her look at art schools.",
+      "url": "https://www.nytimes.com/2022/10/21/movies/martine-syms-the-african-desperate.html",
+      "uri": "nyt://article/734e1ddf-a35c-5bdb-94d3-3affc0ffff11",
+      "byline": "By Nicolas Rapold",
+      "item_type": "Article",
+      "updated_date": "2022-10-21T14:44:50-04:00",
+      "created_date": "2022-10-21T14:44:50-04:00",
+      "published_date": "2022-10-21T14:44:50-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Movies",
+        "The African Desperate (Movie)",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Syms, Martine"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21artschool-films1/merlin_211876419_ff72d204-9e53-49de-80f8-9bc11688aa58-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Diamond Stingily as a Master of Fine Arts student in \u201cThe African Desperate,\u201d directed by Martine Syms. Both the star and director are artists.",
+          "copyright": "Dominica, Inc."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21artschool-films1/21artschool-films1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Diamond Stingily as a Master of Fine Arts student in \u201cThe African Desperate,\u201d directed by Martine Syms. Both the star and director are artists.",
+          "copyright": "Dominica, Inc."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21artschool-films1/21artschool-films1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Diamond Stingily as a Master of Fine Arts student in \u201cThe African Desperate,\u201d directed by Martine Syms. Both the star and director are artists.",
+          "copyright": "Dominica, Inc."
+        }
+      ],
+      "short_url": "https://nyti.ms/3z1epmK"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "How to Be Medea? Summon Your Anger and Despair, and Hit the Gym.",
+      "abstract": "Sondra Radvanovsky has taken on one of opera\u2019s most grueling roles. \u201cYou can\u2019t just act it,\u201d she said. \u201cYou really have to live it.\u201d",
+      "url": "https://www.nytimes.com/2022/10/21/arts/music/sondra-radvanovsky-medea-met-opera.html",
+      "uri": "nyt://article/b565ef38-8c14-56e3-b256-e43243c763ac",
+      "byline": "By Javier C. Hern\u00e1ndez",
+      "item_type": "Article",
+      "updated_date": "2022-10-24T00:51:30-04:00",
+      "created_date": "2022-10-21T14:00:45-04:00",
+      "published_date": "2022-10-21T14:00:45-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Opera",
+        "Medea (Opera)",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "Metropolitan Opera"
+      ],
+      "per_facet": [
+        "Radvanovsky, Sondra"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/RADVANOVSKI3/merlin_214345266_462d3fa5-2964-40fa-a340-45f6b8b83ce2-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The soprano Sondra Radvanovsky did boxing sessions with a trainer to build stamina and strength for singing the title role in \u201cMedea\u201d at the Metropolitan Opera.",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/RADVANOVSKI3/RADVANOVSKI3-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The soprano Sondra Radvanovsky did boxing sessions with a trainer to build stamina and strength for singing the title role in \u201cMedea\u201d at the Metropolitan Opera.",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/RADVANOVSKI3/RADVANOVSKI3-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The soprano Sondra Radvanovsky did boxing sessions with a trainer to build stamina and strength for singing the title role in \u201cMedea\u201d at the Metropolitan Opera.",
+          "copyright": "George Etheredge for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3VKWKts"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "The Stars of \u2018The School for Good and Evil\u2019 Share a Name. But That\u2019s Not All.",
+      "abstract": "Sophia Anne Caruso, 21, and Sofia Wylie, 18, are both making their feature film lead debuts in the new Netflix adaptation of Soman Chainani\u2019s young adult fantasy series.",
+      "url": "https://www.nytimes.com/2022/10/21/movies/the-school-for-good-and-evil-sofia-wylie-sophia-anne-caruso.html",
+      "uri": "nyt://article/fec5ff46-a0b1-5c63-9c3d-a36eb675f4ee",
+      "byline": "By Sarah Bahr",
+      "item_type": "Article",
+      "updated_date": "2022-10-21T17:00:56-04:00",
+      "created_date": "2022-10-21T13:38:16-04:00",
+      "published_date": "2022-10-21T13:38:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "The School for Good and Evil (Movie)"
+      ],
+      "org_facet": [
+        "Netflix Inc"
+      ],
+      "per_facet": [
+        "Caruso, Sophia Anne",
+        "Wylie, Sofia"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21SOPHIA-SOFIA-QA1/merlin_215197683_6745cfc6-65b3-4b03-a1a8-4e76bfe2bc83-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sofia Wylie, left, with Sophia Anne Caruso in Los Angeles.",
+          "copyright": "Amanda Hakan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21SOPHIA-SOFIA-QA1/21SOPHIA-SOFIA-QA1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sofia Wylie, left, with Sophia Anne Caruso in Los Angeles.",
+          "copyright": "Amanda Hakan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21SOPHIA-SOFIA-QA1/21SOPHIA-SOFIA-QA1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sofia Wylie, left, with Sophia Anne Caruso in Los Angeles.",
+          "copyright": "Amanda Hakan for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3VNpXE8"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "How the Philharmonic\u2019s New Home Sounds, From Any Seat",
+      "abstract": "After a major renovation, the acoustics throughout David Geffen Hall are strikingly consistent \u2014 but complicated.",
+      "url": "https://www.nytimes.com/2022/10/21/arts/music/new-york-philharmonic-geffen-hall-renovation-acoustics.html",
+      "uri": "nyt://article/52db012b-bc0e-5c04-9826-18a0975f73cf",
+      "byline": "By Zachary Woolfe",
+      "item_type": "Article",
+      "updated_date": "2022-10-21T17:05:41-04:00",
+      "created_date": "2022-10-21T12:49:45-04:00",
+      "published_date": "2022-10-21T12:49:45-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Classical Music"
+      ],
+      "org_facet": [
+        "Geffen, David, Hall (Manhattan, NY)",
+        "New York Philharmonic"
+      ],
+      "per_facet": [
+        "Balter, Marcos",
+        "Adams, John (1947- )",
+        "Leon, Tania",
+        "Shaw, Caroline",
+        "van Zweden, Jaap"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/21geffen-home1/merlin_215232513_f3a5f110-43fa-47cc-bc63-d89c4208ffb0-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jaap van Zweden leading the New York Philharmonic in its second subscription program at the new David Geffen Hall, a space the orchestra is audibly settling into.",
+          "copyright": "Chris Lee"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/21geffen-home1/merlin_215232513_f3a5f110-43fa-47cc-bc63-d89c4208ffb0-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jaap van Zweden leading the New York Philharmonic in its second subscription program at the new David Geffen Hall, a space the orchestra is audibly settling into.",
+          "copyright": "Chris Lee"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/22/arts/21geffen-home1/21geffen-home1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jaap van Zweden leading the New York Philharmonic in its second subscription program at the new David Geffen Hall, a space the orchestra is audibly settling into.",
+          "copyright": "Chris Lee"
+        }
+      ],
+      "short_url": "https://nyti.ms/3DdxIef"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Lenny Lipton, \u2018Puff the Magic Dragon\u2019 Lyricist and 3-D Film Pioneer, 82, Dies",
+      "abstract": "He used the royalties earned from the hit folk song, based on a poem he wrote in college, to fund decades of research into stereoscopic projection.",
+      "url": "https://www.nytimes.com/2022/10/21/arts/music/lenny-lipton-dead.html",
+      "uri": "nyt://article/a4e397d5-8001-5dbd-84fc-7e62d220ff0a",
+      "byline": "By Clay Risen",
+      "item_type": "Article",
+      "updated_date": "2022-10-23T22:18:27-04:00",
+      "created_date": "2022-10-21T12:41:36-04:00",
+      "published_date": "2022-10-21T12:41:36-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "3-D Devices and Effects",
+        "Inventions and Patents",
+        "Documentary Films and Programs",
+        "Folk Music"
+      ],
+      "org_facet": [
+        "Peter, Paul and Mary (Music Group)"
+      ],
+      "per_facet": [
+        "Lipton, Lenny (1940-2022)",
+        "Yarrow, Peter"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/obituaries/21lipton/21lipton-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1301,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lenny Lipton in 2008. He called the money he got from \u201cPuff the Magic Dragon\u201d his \u201cMacArthur \u2018genius\u2019 grant,\u201d allowing to leave his job, move to California and start a career in 3-D films.",
+          "copyright": "David Livingston/WireImage"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/obituaries/21lipton/21lipton-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lenny Lipton in 2008. He called the money he got from \u201cPuff the Magic Dragon\u201d his \u201cMacArthur \u2018genius\u2019 grant,\u201d allowing to leave his job, move to California and start a career in 3-D films.",
+          "copyright": "David Livingston/WireImage"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/24/obituaries/21lipton/21lipton-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lenny Lipton in 2008. He called the money he got from \u201cPuff the Magic Dragon\u201d his \u201cMacArthur \u2018genius\u2019 grant,\u201d allowing to leave his job, move to California and start a career in 3-D films.",
+          "copyright": "David Livingston/WireImage"
+        }
+      ],
+      "short_url": "https://nyti.ms/3gnas5v"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Shakira and Ozuna\u2019s Breakup Bachata, and 7 More New Songs",
+      "abstract": "Hear tracks by Caroline Polachek, John Cale featuring Weyes Blood, iLe and others.",
+      "url": "https://www.nytimes.com/2022/10/21/arts/music/playlist-shakira-ozuna-kelela.html",
+      "uri": "nyt://article/74fab317-ac57-5375-9082-542d94dfd620",
+      "byline": "By Jon Pareles and Lindsay Zoladz",
+      "item_type": "Article",
+      "updated_date": "2022-10-21T12:00:23-04:00",
+      "created_date": "2022-10-21T11:35:02-04:00",
+      "published_date": "2022-10-21T11:35:02-04:00",
+      "material_type_facet": "",
+      "kicker": "The Playlist",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Rhythm and Blues (Music)"
+      ],
+      "org_facet": [
+        "Nxworries (Music Group)"
+      ],
+      "per_facet": [
+        "Shakira",
+        "Ozuna (Singer)",
+        "Polachek, Caroline",
+        "Cale, John",
+        "Mering, Natalie (Weyes Blood)",
+        "Anderson .Paak",
+        "Wilson, Gabriella (HER)",
+        "Kelela",
+        "Kaya, Okay",
+        "iLe (1989- )",
+        "Knxwledge (1988- )",
+        "Tchaparian, Hagop"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21playlist/21playlist-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1443,
+          "width": 1600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shakira and Ozuna team up for \u201cMonoton\u00eda,\u201d a duet about a relationship\u2019s end that seems mutual.",
+          "copyright": "Jaume de la Iguana"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21playlist/21playlist-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shakira and Ozuna team up for \u201cMonoton\u00eda,\u201d a duet about a relationship\u2019s end that seems mutual.",
+          "copyright": "Jaume de la Iguana"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/10/21/arts/21playlist/21playlist-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shakira and Ozuna team up for \u201cMonoton\u00eda,\u201d a duet about a relationship\u2019s end that seems mutual.",
+          "copyright": "Jaume de la Iguana"
+        }
+      ],
+      "short_url": "https://nyti.ms/3eT4bya"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "fault": {
+    "faultstring": "Rate limit quota violation. Quota limit  exceeded. Identifier : 222ace1a-3442-456e-b56c-cb931623c7ee",
+    "detail": {
+      "errorcode": "policies.ratelimit.QuotaViolation"
+    }
+  }
+}
